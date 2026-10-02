@@ -1,5 +1,7 @@
 # Origin and implementation scope
 
+The new independent implementation is authored by **dhtfish98** (package version **0.1.2**). Upstream works retain their original attribution and license notices in this document and `UPSTREAM_LICENSE`.
+
 JwkSetReview independently implements this selected scope: Full public-only JWK set structural, semantic, key-material, algorithm and distinct-identity audit for RSA, NIST EC and Ed25519.
 
 The research source is [latchset/jwcrypto](https://github.com/latchset/jwcrypto) at fixed commit `14b32e7cbea50d32551a9490009bf946cec61d38`. Source archive SHA-256: `e8cf7e87217ed6a14f1dcb701739c9f466f2555b075c06c94b93bc6c26cf1e28`. Its license is LGPL-3.0-or-later; the exact source license notice is retained as `UPSTREAM_LICENSE`. The new application code and documentation are licensed under MIT (`LICENSE`). The upstream application is neither imported nor executed by the production package. No upstream application source is bundled in the production package.

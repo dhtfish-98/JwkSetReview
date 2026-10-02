@@ -1,5 +1,7 @@
 # JwkSetReview
 
+New implementation author: **dhtfish98**. Package version: **0.1.2**.
+
 Full public-only JWK set structural, semantic, key-material, algorithm and distinct-identity audit for RSA, NIST EC and Ed25519.
 
 This is an independently implemented, complete selected offline input profile. It is not an equivalent rewrite of the entire upstream platform. Cryptographic primitives use cryptography; no upstream application is called.

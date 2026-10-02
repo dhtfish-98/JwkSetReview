@@ -1,26 +1,19 @@
 {
   "name": "JwkSetReview",
-  "group": "identity",
+  "version": "0.1.2",
   "status": "PASS",
-  "version": "0.1.1",
   "test_count": 15,
-  "source_code_sha256": "d274ffe4ea8d632c4fcaacc909e94f38ce58a01b0321be6c93a32acf2c7327b8",
-  "wheel_sha256": "b3fe35ccfdb2e530927f9873acb9119548a6079c46273264b9e19b19403d3a21",
-  "source_wheel_installed_bytes": "PASS",
-  "licenses": "PASS",
-  "dependency_check": "PASS",
-  "verified_utc": "2026-10-02T11:31:33.814688+00:00",
-  "wheel": "cvp_jwk_set_review-0.1.1-py3-none-any.whl",
-  "verification": "Fresh per-project environment; wheel/source/installed runtime byte comparison; complete installed unittest suite; pip dependency check; license byte checks",
-  "runtime_platform": "Python 3.14 macOS arm64; remote Linux CI recorded separately",
+  "wheel_sha256": "c648f83b924423d714f2576341c3f65bb9d4b6358f6ff63112e64d4f7ae636be",
+  "author": "dhtfish98",
+  "wheel": "cvp_jwk_set_review-0.1.2-py3-none-any.whl",
+  "verification": "Rebuilt wheel, separate installed tests, package author metadata, runtime and retained third-party notice byte verification",
+  "record_kind": "Attribution patch verification",
   "application_qualification": "OPEN",
   "whole_upstream_equivalence": "OPEN",
-  "effective_deployed_protection": "OPEN",
-  "record_kind": "Current repaired release verification",
   "historical_initial_release_comparison": {
     "reference": "jwcrypto 1.5.6 JWK public PEM",
     "public_material_fingerprint_equal": true,
     "stronger_private_and_point_policy_separate": true
   },
-  "comparison_limit": "Initial fixed vectors only; see VALIDATION.md for additional source re-audit vectors. No full upstream equivalence."
+  "comparison_limit": "Initial fixed vectors only; not full upstream equivalence."
 }
