@@ -1,0 +1,17 @@
+{
+  "jwks": {
+    "keys": [
+      {
+        "kty": "OKP",
+        "kid": "synthetic-signing-key",
+        "alg": "EdDSA",
+        "crv": "Ed25519",
+        "x": "fi-1Ph097QyznK4xlIHi8MifrIeMr2dhdKGLt-2MrJY",
+        "use": "sig",
+        "key_ops": [
+          "verify"
+        ]
+      }
+    ]
+  }
+}

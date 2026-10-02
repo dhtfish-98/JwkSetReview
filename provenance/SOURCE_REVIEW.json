@@ -1,0 +1,30 @@
+{
+  "source_repository": "https://github.com/latchset/jwcrypto",
+  "source_commit": "14b32e7cbea50d32551a9490009bf946cec61d38",
+  "source_license": "LGPL-3.0-or-later",
+  "source_archive_sha256": "e8cf7e87217ed6a14f1dcb701739c9f466f2555b075c06c94b93bc6c26cf1e28",
+  "review_focus": [
+    "JWK public key representation and algorithm registry",
+    "public-material fingerprint and EC import behavior"
+  ],
+  "complete_selected_files_retained_in_research_archive": true,
+  "research_archive_path": "identity/upstream/jwk",
+  "selected_files": [
+    {
+      "path": "jwcrypto/jwk.py",
+      "sha256": "2988d909b16245c10e1ae429613a0584180a12a097805fefd950553c79d76d06",
+      "bytes": 55973,
+      "lines": 1561,
+      "url": "https://github.com/latchset/jwcrypto/blob/14b32e7cbea50d32551a9490009bf946cec61d38/jwcrypto/jwk.py"
+    },
+    {
+      "path": "jwcrypto/jwa.py",
+      "sha256": "04329d0cb7b5ae42f8a02e3a94eace0621aa84c9b44b5c139f8f789a4cc7d214",
+      "bytes": 40032,
+      "lines": 1373,
+      "url": "https://github.com/latchset/jwcrypto/blob/14b32e7cbea50d32551a9490009bf946cec61d38/jwcrypto/jwa.py"
+    }
+  ],
+  "new_implementation_all_source_files_reviewed": true,
+  "whole_upstream_platform_equivalence": false
+}

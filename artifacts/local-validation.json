@@ -1,0 +1,14 @@
+{
+  "project": "JwkSetReview",
+  "status": "PASS",
+  "test_count": 12,
+  "wheel": "cvp_jwk_set_review-0.1.0-py3-none-any.whl",
+  "wheel_sha256": "1fb2b4677f09e55225610c8c477c939701ee3cb5ab9e1be503479993f29dd2df",
+  "verification": "Local supported and malformed input tests, wheel build, separate install, imported package origin and CLI checks",
+  "reproduction": [
+    "python -m pip install .",
+    "python -m unittest discover -s tests -v",
+    "python -m pip wheel --no-deps --wheel-dir artifacts ."
+  ],
+  "limits": "Point-in-time engineering evidence only; CVP qualification and approval remain OPEN"
+}
