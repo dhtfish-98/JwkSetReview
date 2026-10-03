@@ -1,0 +1,30 @@
+{
+  "schema": "project-build-layout.v1",
+  "project": "JwkSetReview",
+  "author": "dhtfish98",
+  "kind": "python",
+  "base_public_commit": "3d45482dcae4c868a1bb2bf34b36fc86e780cef7",
+  "restored_inputs": [
+    {
+      "original": "LICENSE",
+      "stored": "项目文档/LICENSE",
+      "sha256": "de926d6c22d9e061af6158b0f23146ce036bfb2a562f2f406acec2dc4bd8b298"
+    },
+    {
+      "original": "ORIGIN.md",
+      "stored": "项目文档/ORIGIN.md",
+      "sha256": "7767c6afae878d698754a791f965e47451da75a468a0d123a55d216cbd1452d1"
+    },
+    {
+      "original": "README.md",
+      "stored": "项目文档/README.md",
+      "sha256": "5683ff81704562a40128d73954bfd9ee0d3121037f9d21ad2623bd59d2e7f33e"
+    },
+    {
+      "original": "VALIDATION.md",
+      "stored": "项目文档/VALIDATION.md",
+      "sha256": "32d3434f7c90014aa0b3a7bbbd8046789fc9af05705b6077c2932a9a479a20ad"
+    }
+  ],
+  "platform_entries": []
+}
