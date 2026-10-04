@@ -6,6 +6,16 @@
   "base_public_commit": "3d45482dcae4c868a1bb2bf34b36fc86e780cef7",
   "restored_inputs": [
     {
+      "original": "ATTRIBUTION_UPDATE_20261002.json",
+      "stored": "项目文档/ATTRIBUTION_UPDATE_20261002.json",
+      "sha256": "b328c4062c11529cb27ce9252ca70cc1d2b149bc49962ee7eb39ab2038eac96f"
+    },
+    {
+      "original": "BUILD_PROVENANCE.json",
+      "stored": "项目文档/BUILD_PROVENANCE.json",
+      "sha256": "f5d536b03dc9d676c5881d4331d3abfa33273d82f75bd4587223013e7bd35e0b"
+    },
+    {
       "original": "LICENSE",
       "stored": "项目文档/LICENSE",
       "sha256": "de926d6c22d9e061af6158b0f23146ce036bfb2a562f2f406acec2dc4bd8b298"
@@ -18,12 +28,27 @@
     {
       "original": "README.md",
       "stored": "项目文档/README.md",
-      "sha256": "5683ff81704562a40128d73954bfd9ee0d3121037f9d21ad2623bd59d2e7f33e"
+      "sha256": "a91c51c872617bcd388a08731d8b175fc8831b2a8258e60810176ce82242a8a7"
+    },
+    {
+      "original": "REAUDIT_20261002.json",
+      "stored": "项目文档/REAUDIT_20261002.json",
+      "sha256": "a45cd22cbc504ff8cd32d57c4f03c01909c990945feb929af1c66c69620c8c75"
+    },
+    {
+      "original": "UPSTREAM_LICENSE",
+      "stored": "项目文档/UPSTREAM_LICENSE",
+      "sha256": "da7eabb7bafdf7d3ae5e9f223aa5bdc1eece45ac569dc21b3b037520b4464768"
     },
     {
       "original": "VALIDATION.md",
       "stored": "项目文档/VALIDATION.md",
       "sha256": "32d3434f7c90014aa0b3a7bbbd8046789fc9af05705b6077c2932a9a479a20ad"
+    },
+    {
+      "original": "artifacts/local-validation.json",
+      "stored": "项目文档/artifacts/local-validation.json",
+      "sha256": "b328c4062c11529cb27ce9252ca70cc1d2b149bc49962ee7eb39ab2038eac96f"
     }
   ],
   "platform_entries": []
