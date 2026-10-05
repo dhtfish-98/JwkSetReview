@@ -1,6 +1,6 @@
 # Origin and implementation scope
 
-The new independent implementation is authored by **dhtfish98** (package version **0.1.2**). Upstream works retain their original attribution and license notices in this document and `UPSTREAM_LICENSE`.
+The new independent implementation is authored by **dhtfish98** (package version **0.1.4**). Upstream works retain their original attribution and license notices in this document and `UPSTREAM_LICENSE`.
 
 JwkSetReview independently implements this selected scope: Full public-only JWK set structural, semantic, key-material, algorithm and distinct-identity audit for RSA, NIST EC and Ed25519.
 

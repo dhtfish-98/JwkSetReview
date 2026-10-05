@@ -23,12 +23,12 @@
     {
       "original": "ORIGIN.md",
       "stored": "项目文档/ORIGIN.md",
-      "sha256": "7767c6afae878d698754a791f965e47451da75a468a0d123a55d216cbd1452d1"
+      "sha256": "b5c8035143b13e41eab4cbf142d3deda6c21547c47482de661fb513d4f1ab699"
     },
     {
       "original": "README.md",
       "stored": "项目文档/README.md",
-      "sha256": "a3280066cfdf26eee020f1ce0af8b3102f14ef099b74513eff809461d6ad4c68"
+      "sha256": "bc041c6beb5720c3d45c8de25ce5bbfcc5fe2a105460e1f46e3c0791f575f891"
     },
     {
       "original": "REAUDIT_20261002.json",
@@ -43,7 +43,7 @@
     {
       "original": "VALIDATION.md",
       "stored": "项目文档/VALIDATION.md",
-      "sha256": "efa6352169a1271a917d86cfe9254c8b1bb3a3c65631c0458c14bbfa9c0b0d6f"
+      "sha256": "43076b30e165bfd5ee74aad522b39113fcdd39069c7b10d43c52abaab81c4716"
     },
     {
       "original": "artifacts/local-validation.json",
