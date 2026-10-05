@@ -28,7 +28,7 @@
     {
       "original": "README.md",
       "stored": "项目文档/README.md",
-      "sha256": "a91c51c872617bcd388a08731d8b175fc8831b2a8258e60810176ce82242a8a7"
+      "sha256": "a3280066cfdf26eee020f1ce0af8b3102f14ef099b74513eff809461d6ad4c68"
     },
     {
       "original": "REAUDIT_20261002.json",
@@ -43,7 +43,7 @@
     {
       "original": "VALIDATION.md",
       "stored": "项目文档/VALIDATION.md",
-      "sha256": "32d3434f7c90014aa0b3a7bbbd8046789fc9af05705b6077c2932a9a479a20ad"
+      "sha256": "efa6352169a1271a917d86cfe9254c8b1bb3a3c65631c0458c14bbfa9c0b0d6f"
     },
     {
       "original": "artifacts/local-validation.json",

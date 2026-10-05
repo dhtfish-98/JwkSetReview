@@ -2,7 +2,7 @@
 
 # JwkSetReview
 
-New implementation author: **dhtfish98**. Package version: **0.1.2**.
+New implementation author: **dhtfish98**. Package version: **0.1.3**.
 
 Full public-only JWK set structural, semantic, key-material, algorithm and distinct-identity audit for RSA, NIST EC and Ed25519.
 

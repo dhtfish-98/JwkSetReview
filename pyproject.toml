@@ -3,7 +3,7 @@ requires = ["setuptools>=77", "wheel"]
 build-backend = "setuptools.build_meta"
 [project]
 name = "cvp-jwk-set-review"
-version = "0.1.2"
+version = "0.1.3"
 authors = [{name = "dhtfish98"}]
 description = "Full public-only JWK set structural, semantic, key-material, algorithm and distinct-identity audit for RSA, NIST EC and Ed25519."
 requires-python = ">=3.11"
